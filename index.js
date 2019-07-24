@@ -42,8 +42,3 @@ $(function(){
 
 }
 )
-
-$(window).load("#home", function () {
-
-    
-}); 

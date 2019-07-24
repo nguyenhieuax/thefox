@@ -2,6 +2,11 @@
 *{padding:0;
     margin:0;}
 
+.portfolio .thumbnail p {
+    margin-top: -25px;
+    text-align: center;
+}
+
 .service2 a.heading {
     text-decoration: none;
 }
@@ -29,8 +34,23 @@
     z-index: 3;
 }
 
+.thumbnail:before {
+    content: "";
+    background: none;
+    height: 180px;
+    position: absolute;
+    width: 255px;
+    z-index: 5;
+}
+
+.thumbnail:hover::before {
+    background-color: white;
+    z-index: 5;
+}
+
 .portfolio .thumbnail:hover .port_desc {
     top: 70px;
+    z-index:7
 }
 
 .portfolio .thumbnail:hover {
