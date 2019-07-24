@@ -1,0 +1,1019 @@
+
+*{padding:0;
+    margin:0;}
+
+.service2 a.heading {
+    text-decoration: none;
+}
+
+.portfolio .port_desc a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 600;
+}
+
+.portfolio .port_desc {
+    position: absolute;
+    top: 175px;
+    left: 50px;
+    transition: all 0.3s;
+}
+
+.portfolio .thumbnail {
+    margin-bottom: 20px;
+    position: relative;
+    transition: all 1s;
+    overflow: hidden;
+    z-index: 3;
+}
+
+.portfolio .thumbnail:hover .port_desc {
+    top: 70px;
+}
+
+.portfolio .thumbnail:hover {
+    background-color: white;
+}
+
+.portfolio .thumbnail:before {}
+
+.infor2 h2 {
+    font-size: 35px;
+    font-weight: 300;
+    color: white;
+}
+
+.twitter-content.text-center {
+    margin-bottom: 60px;
+}
+
+.twitter a.prev,.twitter a.next {
+    border: solid 1px white;
+    border-radius: 50%;
+    transition: all 0.2s;
+}
+
+.twitter a.prev:hover , .twitter a.next:hover {
+    background-color: #21c2f8;
+}
+
+.twitter a.next {padding: 10px 14px;margin-left: 5px;padding-left: 14px;}
+
+.twitter a.prev {
+    margin-right: 5px;
+    padding: 10px 13px;
+}
+
+.twitter a.next {}
+
+input.form-control.message {
+    height: 180px;
+}
+
+input.form-control.message::placeholder {
+    position: relative;
+    top: -68px;
+}
+
+
+.infor4 h2 {
+    font-size: 35px;
+    color: black;
+    font-weight: 300;
+}
+
+.contact .form-group a {
+    color: white;
+    font-weight: 700;
+}
+
+.contact button {
+    padding: 8px 40px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 3px;
+    background-color: #18b9ef;
+    transition: all 0.3s;
+}
+
+.contact button:hover {
+    background-color: #29d9c2;
+}
+
+.contact input.form-control {
+    font-size: 20px;
+    margin-bottom: 15px;
+    opacity: 0.5;
+}
+
+input.form-control.message::placeholder {
+}
+
+input.form-control {}
+
+.contact input.form-control::placeholder {
+    font-size: 15px;
+}
+
+.contact p.if1 {
+    color: black;
+    margin-bottom: 0px;
+}
+
+.contact h2 {
+    font-size: 35px;
+    font-weight: 300;
+    color: black;
+}
+
+div#contact {
+    padding: 100px 0px;
+}
+
+div#ourteam {
+    padding: 100px 0px;
+    background-color: #F9FAFB;
+}
+
+.ourteam a {
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.ourteam .head-ourteam h2 {
+    color: black;
+    font-weight: 300;
+}
+
+.head-ourteam.text-center {padding-bottom: 30px;}
+
+.service2 p {
+    padding-bottom: 60px;
+}
+
+.service2 .heading h3 {
+    font-size: 24px;
+    font-weight: 300;
+    opacity: 0.7;
+    color: black;
+    padding-bottom: 10px;
+    margin-left: 55px;
+}
+
+.service2 .icon {font-size: 35px;color: #21C2F8;position: relative;top: 40px;}
+
+.service2 {
+    padding: 100px 0px;
+}
+
+
+.satisfied .item .thumbnail img.img-fluid {
+    opacity: 0.8;
+}
+
+.satisfied .item .thumbnail img.img-fluid:hover {
+    opacity: 1;
+}
+
+.satisfied .item .thumbnail {
+    text-align: center;
+    padding: 35px;
+}
+
+.satisfied h3 {
+    font-weight: 300;
+    font-size: 22px;
+    padding-top: 5px;
+}
+
+.satisfied h2 {
+    font-weight: 300;
+    font-size: 35px;
+}
+
+.content h2 {
+    color: white;
+    font-size: 35px;
+    font-weight: 300;
+}
+
+.content.text-center {
+    background-color: #222533;
+    padding: 80px 0px;
+    margin-top: -60px;
+}
+
+.service .owl-carousel:hover .button.owl-next img,.service .owl-carousel:hover .button.owl-prev img {
+    opacity: 1;
+}
+
+.service a {
+    text-decoration: none;
+    color: white;
+}
+
+.service a.caption {
+    font-size: 18px;
+    font-weight: 600;
+    position: relative;
+    top: 20px;
+}
+
+.infor5 p.p1 {
+    font-size: 25px;
+    font-weight: 300;
+    padding-bottom: 25px;
+}
+
+.infor5 h2 {
+    font-size: 35px;
+    font-weight: 300;
+    color: black;
+}
+
+.infor5.text-center {
+    padding: 100px 0px;
+}
+
+.infor4 a.infor4-button {
+    border: solid 1px black;
+    padding: 15px 30px;
+    border-radius: 5px;
+    color: black;
+    font-weight: 600;
+    font-size: 15px;
+    display: inline;
+}
+
+a.infor4-button {}
+
+.infor4 .infor4-button:hover {background: #2c3e50;color: #ffffff;border: 1px solid #2c3e50;}
+
+
+
+.infor4 a.comment {
+    color: #a1b1bc;
+}
+
+.infor4 a.comment:hover {
+    color: #21c2f8;
+}
+
+.infor4 a {
+    text-decoration: none;
+}
+
+.infor4 a.caption {
+    font-size: 18px;
+    color: black;
+    font-weight: 600;
+}
+
+.infor4 a.caption:hover {
+    color: #21c2f8;
+}
+
+.infor4 .thumnail4 p {
+    font-size: 15px;
+    margin-top: -11px;
+    margin-left: 27px;
+}
+
+.infor4 .thumnail4 .quote {
+    padding: 30px 28px;
+    font-size: 17px;
+    margin-bottom: 20px;
+}
+
+.carousel-control-prev-icon {
+}
+
+.carousel-control-prev-icon:hover {
+}
+
+.infor4 .carousel-button a.next-button {
+    position: absolute;
+    top: 74px;
+    left: 210px;
+    height: 50px;
+    width: 45px;
+    background: none;
+    border-radius: 5px 0px 0px 5px;
+    padding-top: 14px;
+    padding-left: 14px;
+}
+
+.infor4 .carousel-button a.next-button:hover {
+}
+
+.infor4 .carousel-button a.next-button:hover {
+    background-color: #18b9ef;
+}
+
+.infor4 .carousel-button a.pre-button {
+    position: absolute;
+    top: 74px;
+    left: 0px;
+    height: 50px;
+    width: 45px;
+    background: none;
+    border-radius: 0px 5px 5px 0px;
+    padding-top: 14px;
+    padding-left: 9px;
+}
+
+.infor4 .carousel-button a.pre-button:hover {
+    background-color: #18b9ef;
+}
+
+
+
+.infor4 .carousel img.img-fluid {
+    height: 191px;
+}
+
+
+.infor4 button.pre-button:hover {
+    background-color: white;
+}
+
+button.infor3-button {
+    border: solid 1px white;
+    border-radius: 5px;
+    padding: 12px 25px;
+    background: none;
+    margin-top: 15px;
+}
+
+button.infor3-button:hover {
+    color: #ffffff;
+    background: #16b7ed;
+    border-color: #16b7ed;
+}
+
+.infor3 p {font-size: 23px;font-weight: 300;}
+
+.infor3.text-center {
+    background-color: #acdded;
+    padding: 100px 0px;
+    color: white;
+}
+
+.blog img.img-fluid {
+    height: 100%;
+    width: 100%;
+}
+
+.twitter span.carousel-control-prev-icon {height: 9px;width: 9px;}
+
+.twitter span.carousel-control-next-icon {
+    height: 9px;
+    width: 9px;
+}
+
+.twitter button {
+    margin-top: 50px;
+    border-radius: 50%;
+    margin-left: 10px;
+    height: 35px;
+    width: 35px;
+    border: solid 1px white;
+    background: none;
+    padding-top: 0px;
+}
+
+.twitter button:hover {
+    background-color: #21c2f8;
+}
+
+h1 {
+}
+
+hr.hr {border-top: solid 1px;width: 35px;margin: 0 auto;margin-top: 10px;}
+
+.twitter .carousel-item h2 {
+    font-size: 35px;
+    padding-bottom: 30px;
+    font-weight: 300;
+}
+
+.twitter .carousel-inner {
+    color: white;
+}
+
+.twitter .carousel-item a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.twitter .carousel-item a.time {
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.twitter .carousel-item p {
+    font-size: 25px;
+    font-weight: 300;
+}
+
+li.active {}
+
+.infor2.text-center {
+    padding: 75px 0px;
+    background-color: #222533;
+}
+
+.portfolio .thumbnail img.img-fluid {
+    height: 180px;
+    width: 100%;
+    z-index: 4;
+}
+
+.portfolio .thumbnail img.img-fluid:hover {
+    z-index: 1;
+}
+
+.portfolio .thumbnail:hover .img.img-fluid {
+    z-index: 1;
+}
+
+div#portfolio {
+    background-color: #f9fafb;
+    padding-bottom: 100px;
+}
+
+.infor4 {
+    padding: 110px  0px;
+    background: #f9fafb;
+}
+
+button.blog-button {
+    padding: 8px 25px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #18b9ef;
+    transition: all 0.3s;
+}
+
+button.blog-button:hover {
+    background-color: #2c3e50;
+}
+
+.blog p.p1 {
+    font-size: 25px;
+    font-weight: 300;
+}
+
+.portfolio h2 {
+    font-size: 35px;
+    color: black;
+    font-weight: 300;
+    padding-bottom: 15px;
+}
+
+.portfolio .head-port.text-center {
+    padding: 100px 0px;
+}
+
+.introducing {
+    padding: 100px 0px;
+}
+
+button.introducing-button.Purchase {
+    padding: 8px 20px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #2c3e50;
+    margin-left: 20px;
+}
+
+.introducing .introducing-button a {
+    text-decoration: none;
+    color: white;
+}
+
+button.introducing-button.Learn {
+    padding: 8px 25px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #18b9ef;
+    transition: all 0.3s;
+}
+
+button.introducing-button.Learn:hover {
+    background-color: #2c3e50;
+}
+
+.introducing .button.introducing-button {}
+
+.introducing p.p1 {
+    font-size: 25px;
+    font-weight: 300;
+}
+
+.information .infor {
+    padding-bottom: 50px;
+}
+
+.information .infor h3.card-title {
+    color: black;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+    opacity: 0.7;
+}
+
+.information .infor .inCircle {
+    color: white;
+    font-size: 25px;
+}
+
+.information .infor img.circle.img-fluid {
+    height: 80px;
+    width: 80px;
+    margin-left: 65px;
+    position: relative;
+}
+
+.information .head-infor.text-center p {padding-bottom: 50px;}
+
+.about button.about-button {padding: 8px 25px;margin-top: 10px;border: none;border-radius: 5px;background-color: #18b9ef;transition: all 0.3s;}
+
+.about .p1 {font-size: 26px;font-weight: 300;}
+
+.about {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.about h2 {
+    color: black;
+    font-weight: 300;
+    font-size: 35px;
+}
+
+.infor4 .button-infor4 {
+}
+
+.infor4 div#mini {
+    position: relative;
+}
+
+.service .thumbnail {
+    padding-bottom: 25px;
+    margin-right: -20px;
+    position: relative;
+    z-index: 2;
+}
+
+.service .thumbnail:hover .content {
+    background: #272B39;
+}
+
+.service .thumbnail:hover {}
+
+.service .thumbnail:before {
+    background: rgba(34,37,51,0.50);
+    content: "";
+    width: 100%;
+    height: 91%;
+    position: absolute;
+}
+
+.service .thumbnail:hover::before {
+    height: 0px;
+}
+
+.infor4 .thumbnail {
+    height: 191px;
+    margin-bottom: 29px;
+    margin-top: 30px;
+}
+
+.infor4 .thumnail4 {
+    background: #21c2f8;
+    color: white;
+}
+
+.blog {
+    padding: 100px 0px;
+}
+
+.information .infor .iconCircle {
+    background-image: url(img/circle4.png);
+    background-size: cover;
+    height: 80px;
+    width: 80px;
+    text-align: center;
+    margin-left: 80px;
+    line-height: 85px;
+    margin-bottom: 25px;
+    opacity: 0.8;
+}
+
+.information .infor .iconCircle:hover {
+    opacity: 1;
+}
+
+.information .head-infor.text-center h2 {
+    color: black;
+    font-weight: 300;
+}
+
+.infor3 h2 {
+    font-size: 35px;
+    font-weight: 300;
+    color: white;
+}
+
+.blog h2 {
+    font-size: 35px;
+    font-weight: 300;
+    color: black;
+}
+
+.introducing h2 {
+    font-size: 35px;
+    font-weight: 300;
+    color: black;
+}
+
+.information {
+    padding: 100px 0px;
+    background-color: #f9fafb;
+}
+
+.service .content {position: absolute;bottom: 25px;text-align: center;line-height: 25px;width: 100%;height: 35%;color: white;}
+
+
+.home button.home-button {
+    border: none;
+    border-radius: 4px;
+    margin: 8px;
+    height: 50px;
+    width: 150px;
+}
+
+button.home-button.check {
+}
+
+.home button.home-button.buy {
+    border: solid 2px #231f44;
+    background-color: #231f44;
+}
+
+.home button.home-button.check {
+    background-color: #71b1bc;
+}
+
+.home button.home-button a {color: white;font-size: 11px;font-weight: 700;text-decoration: none;}
+
+.about button.about-button a {
+    transition: all 5s;
+    color: white;
+    text-decoration: none;
+}
+
+.about button.about-button:hover {
+    background-color: #2c3e50;
+}
+
+img.img-fluid.description {}
+
+svg.svg-inline--fa.fa-search.fa-w-16 {
+    margin-left: 40px;
+    margin-top: 14px;
+    color: white;
+}
+
+.home .upgrade svg.svg-inline--fa.fa-search.fa-w-16 {
+    color: gray;
+}
+
+.home .content {
+    padding-top: 140px;
+}
+
+.home img.img-fluid.description {
+    margin: 25px 0px;
+    width: 41%;
+}
+
+.home img.img-fluid.caption {width: 45%;height: auto;}
+
+.home img.img-fluid.caption {}
+
+.home .navbar-left a.navbar-brand {
+    font-size: 35px;
+}
+
+.home .navbar-left img.img-fluid {height: 50%;width: auto;position: absolute;margin: -22px 0px 0px 140px;}
+
+.home .upgrade .navbar-left img.img-fluid {
+    top: 34px;
+}
+
+img.img-fluid.white {
+    z-index: 6;
+    position: absolute;
+}
+
+.home .navbar-left img.img-fluid.dark {
+    z-index: 4;
+    position: absolute;
+}
+
+.home .upgrade .navbar-left img.img-fluid.dark {
+    z-index: 7;
+}
+
+nav.navbar.navbar-expand-sm.navbar-light.bg-light.fixed-top.upgrade .navbar-left img.img-fluid {}
+
+.home .navbar .fixed-top .upgrade img.img-fluid {
+    height: 20px;
+}
+
+img.img-responsive {}
+
+.navbar-light .navbar-nav .nav-link {
+    font-size: 15px;
+    margin-left: 30px;
+    color: #fff;
+}
+
+nav.navbar.navbar-expand-sm.navbar-light.bg-light.fixed-top.upgrade .navbar-right .nav-link {
+    color: inherit;
+}
+
+nav.navbar.navbar-expand-sm.navbar-light.bg-light {
+}
+
+.home ul.navbar-nav.mr-auto.mt-2.mt-lg-0.navbar-right {position: absolute;margin-left: 500px;}
+
+.home .upgrade ul.navbar-nav.mr-auto.mt-2.mt-lg-0.navbar-right {padding-top: 27px;}
+
+.home.text-center {
+    background-image: url(img/home-real.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    padding-bottom: 200px;
+    padding-top: 130px;
+    animation-name: fadeInRight;
+    visibility: visible;
+}
+
+nav.navbar.navbar-expand-sm.navbar-light.bg-light {
+    padding: 45px;
+    font-size: 15px;
+    border: none;
+    background: rgba(82, 87, 135, 0.3)!important;
+}
+
+nav.navbar.navbar-expand-sm.navbar-light.bg-light.fixed-top {
+    transition: all 0.6s;
+    position: fixed;
+}
+
+nav.navbar.navbar-expand-sm.navbar-light.bg-light.fixed-top.upgrade {
+    background: white!important;
+    padding-top: 15px;
+}
+
+.footer .footer-top img.img-fluid {
+    width: 80%;
+}
+
+.footer h3 {
+    font-size: 22px;
+    padding-bottom: 26px;
+    color: white;
+    font-weight: 300;
+}
+
+.recent_comments h3 {text-align: center;}
+
+.col-sm-3.Archives {
+    text-align: center;
+}
+
+.footer .footer-top li.time {
+    list-style: none;
+    padding: 15px 0px;
+}
+
+.footer .footer-top li.time a {
+    color: #a1b1bc;
+}
+
+.footer .footer-top li.Comments {
+    list-style: none;
+    padding: 15px 0px;
+    text-align: center;
+}
+
+.footer .footer-top li.Comments a {
+    color: white;
+    text-decoration: none;
+}
+
+.footer .footer-top li.Comments a:hover {
+    color: #00d6cf;
+}
+
+
+div#footer-top {background: #222533;padding-bottom: 80px;padding-top: 80px;}
+
+.footer.wrapper {
+}
+
+.footer-bot {
+    background: #1a1c27;
+    padding-bottom: 65px;
+    padding-top: 30px;
+}
+
+.footer .footer-bot .wrapper ul li {
+    list-style: none;
+    line-height: 40px;
+    display: inline;
+}
+
+.footer .footer-bot .wrapper ul li a {
+    color: #a1b1bc;
+    text-decoration: none;
+}
+
+.footer .footer-bot .wrapper ul li a:hover {
+    color: white;
+}
+
+.footer .footer-bot .wrapper .ftleft ul li {
+    padding-right: 30px;
+}
+
+.footer .footer-bot .wrapper .ftright ul li {
+    padding-left: 18px;
+}
+
+body {
+    font-family: "Lato", Arial, sans-serif;
+    font-size: 14px;
+    line-height: 25px;
+    font-weight: 400;
+    background-color: #ffffff;
+    overflow-x: hidden;
+    color: #a1b1bc;
+}
+
+.head-satisfied.text-center {
+    color: white;
+}
+
+.service .rp_date p {}
+
+.service p.rp_date {
+    position: relative;
+    top: 20px;
+}
+
+.infor4 p.bot {
+    margin-bottom: 40px;
+}
+
+div#twitter-carousel {
+    margin: 0 auto;
+}
+
+.blog .blog-button a {
+    text-decoration: none;
+    color: white;
+}
+
+.infor4 .carousel-button .pre-button a {
+}
+
+.infor4 .carousel-button .pre-button a:hover {
+    color: red;
+}
+
+.infor3 .infor3-button a {
+    text-decoration: none;
+    font-size: 16px;
+    color: white;
+}
+
+.information .infor p.card-text {
+    text-align: center;
+}
+
+.p {}
+
+.navbar-right ul li a {
+    font-size: 16px;
+}
+
+.ftright {
+    float: right;
+}
+
+.ftleft {
+    float: left;
+}
+
+.ourteam .member-infor {
+    padding-left: 120px;
+    text-align: left;
+}
+
+.ourteam img.img-fuid {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: solid 1px gray;
+    padding: 2px;
+    margin-top: 10px;
+    float: left;
+}
+
+.twitter.text-center {
+    background-image: url(img/twitter-real.jpg);
+    background-size: cover;
+    background-position: center;
+    height:550px;
+}
+
+.satisfied .row {
+    position: relative;
+}
+
+
+
+.satisfied .owl-nav .owl-prev img {
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    top: 98px;
+    left: -25px;
+    opacity: 0.5;
+}
+
+
+
+.satisfied .owl-nav .owl-next img {
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    right: -24px;
+    top: 98px;
+    opacity: 0.5;
+}
+
+.satisfied .owl-stage-outer {
+    position: relative;
+}
+
+.satisfied {
+    background-image: url(img/satis-real.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 7%;
+}
+
+.service .thumbnail img.img-fluid {
+    height: 250px;
+}
+
+
+      
+    .service .owl-nav .owl-next img {
+        width: 40px;
+        height: 50px;
+        position: absolute;
+        right: 0px;
+        top: -197px;
+        border-radius: 5px 0 0 5px;
+    }
+    
+    .service .owl-nav {
+        position: relative;
+    }
+    
+    .service .owl-carousel .owl-nav .owl-prev img {
+        height: 50px;
+        width: 40px;
+        position: absolute;
+        left: 0px;
+        top: -197px;
+        border-radius: 0 5px 5px 0;
+    }
