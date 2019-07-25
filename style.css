@@ -34,7 +34,7 @@
     z-index: 3;
 }
 
-.thumbnail:before {
+.portfolio .thumbnail:before {
     content: "";
     background: none;
     height: 180px;
@@ -57,7 +57,7 @@
     background-color: white;
 }
 
-.portfolio .thumbnail:before {}
+
 
 .infor2 h2 {
     font-size: 35px;
@@ -86,7 +86,7 @@
     padding: 10px 13px;
 }
 
-.twitter a.next {}
+
 
 input.form-control.message {
     height: 180px;
@@ -128,10 +128,9 @@ input.form-control.message::placeholder {
     opacity: 0.5;
 }
 
-input.form-control.message::placeholder {
-}
 
-input.form-control {}
+
+
 
 .contact input.form-control::placeholder {
     font-size: 15px;
@@ -269,7 +268,7 @@ div#ourteam {
     display: inline;
 }
 
-a.infor4-button {}
+
 
 .infor4 .infor4-button:hover {background: #2c3e50;color: #ffffff;border: 1px solid #2c3e50;}
 
@@ -309,11 +308,6 @@ a.infor4-button {}
     margin-bottom: 20px;
 }
 
-.carousel-control-prev-icon {
-}
-
-.carousel-control-prev-icon:hover {
-}
 
 .infor4 .carousel-button a.next-button {
     position: absolute;
@@ -327,8 +321,6 @@ a.infor4-button {}
     padding-left: 14px;
 }
 
-.infor4 .carousel-button a.next-button:hover {
-}
 
 .infor4 .carousel-button a.next-button:hover {
     background-color: #18b9ef;
@@ -410,8 +402,7 @@ button.infor3-button:hover {
     background-color: #21c2f8;
 }
 
-h1 {
-}
+
 
 hr.hr {border-top: solid 1px;width: 35px;margin: 0 auto;margin-top: 10px;}
 
@@ -442,7 +433,7 @@ hr.hr {border-top: solid 1px;width: 35px;margin: 0 auto;margin-top: 10px;}
     font-weight: 300;
 }
 
-li.active {}
+
 
 .infor2.text-center {
     padding: 75px 0px;
@@ -533,7 +524,7 @@ button.introducing-button.Learn:hover {
     background-color: #2c3e50;
 }
 
-.introducing .button.introducing-button {}
+
 
 .introducing p.p1 {
     font-size: 25px;
@@ -581,8 +572,6 @@ button.introducing-button.Learn:hover {
     font-size: 35px;
 }
 
-.infor4 .button-infor4 {
-}
 
 .infor4 div#mini {
     position: relative;
@@ -599,7 +588,7 @@ button.introducing-button.Learn:hover {
     background: #272B39;
 }
 
-.service .thumbnail:hover {}
+
 
 .service .thumbnail:before {
     background: rgba(34,37,51,0.50);
@@ -683,8 +672,6 @@ button.introducing-button.Learn:hover {
     width: 150px;
 }
 
-button.home-button.check {
-}
 
 .home button.home-button.buy {
     border: solid 2px #231f44;
@@ -707,7 +694,7 @@ button.home-button.check {
     background-color: #2c3e50;
 }
 
-img.img-fluid.description {}
+
 
 svg.svg-inline--fa.fa-search.fa-w-16 {
     margin-left: 40px;
@@ -730,7 +717,7 @@ svg.svg-inline--fa.fa-search.fa-w-16 {
 
 .home img.img-fluid.caption {width: 45%;height: auto;}
 
-.home img.img-fluid.caption {}
+
 
 .home .navbar-left a.navbar-brand {
     font-size: 35px;
@@ -756,13 +743,13 @@ img.img-fluid.white {
     z-index: 7;
 }
 
-nav.navbar.navbar-expand-sm.navbar-light.bg-light.fixed-top.upgrade .navbar-left img.img-fluid {}
+
 
 .home .navbar .fixed-top .upgrade img.img-fluid {
     height: 20px;
 }
 
-img.img-responsive {}
+
 
 .navbar-light .navbar-nav .nav-link {
     font-size: 15px;
@@ -774,8 +761,7 @@ nav.navbar.navbar-expand-sm.navbar-light.bg-light.fixed-top.upgrade .navbar-righ
     color: inherit;
 }
 
-nav.navbar.navbar-expand-sm.navbar-light.bg-light {
-}
+
 
 .home ul.navbar-nav.mr-auto.mt-2.mt-lg-0.navbar-right {position: absolute;margin-left: 500px;}
 
@@ -853,8 +839,6 @@ nav.navbar.navbar-expand-sm.navbar-light.bg-light.fixed-top.upgrade {
 
 div#footer-top {background: #222533;padding-bottom: 80px;padding-top: 80px;}
 
-.footer.wrapper {
-}
 
 .footer-bot {
     background: #1a1c27;
@@ -878,11 +862,11 @@ div#footer-top {background: #222533;padding-bottom: 80px;padding-top: 80px;}
 }
 
 .footer .footer-bot .wrapper .ftleft ul li {
-    padding-right: 30px;
+    padding-right: 20px;
 }
 
 .footer .footer-bot .wrapper .ftright ul li {
-    padding-left: 18px;
+    padding-left: 17px;
 }
 
 body {
@@ -899,7 +883,7 @@ body {
     color: white;
 }
 
-.service .rp_date p {}
+
 
 .service p.rp_date {
     position: relative;
@@ -919,8 +903,7 @@ div#twitter-carousel {
     color: white;
 }
 
-.infor4 .carousel-button .pre-button a {
-}
+
 
 .infor4 .carousel-button .pre-button a:hover {
     color: red;
@@ -936,7 +919,6 @@ div#twitter-carousel {
     text-align: center;
 }
 
-.p {}
 
 .navbar-right ul li a {
     font-size: 16px;
